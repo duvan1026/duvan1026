@@ -16,6 +16,13 @@ Tou can find me 🌍:
 - [Facebook]()
 - [linkedin](https://www.linkedin.com/in/duvandariocastrobautista/)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duvan1026&show_icons=true&theme=transparent)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duvan1026&show_icons=true&bg_color=00000000)
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=duvan1026&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=duvan1026&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 <!--
 **duvan1026/duvan1026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
