@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![me](https://user-images.githubusercontent.com/57040281/231505627-355cd114-9f1f-4961-9f7c-d57dbc055772.png)
+
 ```javascript
 const thai = {
   pronouns: "she" | "her",
