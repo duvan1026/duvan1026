@@ -4,13 +4,23 @@
 
 ## about me in code
 
-```javascript
-const dudev = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  passions: ['performance web','web development','backend java']
-}
+```Java
+@Entity
+public class MyStack{
+
+ @Id
+ @GeneratedValue(strategy = GenerationType.IDENTITY)
+ @ApiModelProperty("Clave autoincremental tipo Long")
+ private Long id;
+ private String [] code;
+ private String [] tools;
+ private String [] passions;
+
+ public MyStack{
+ this.code = new String[]{"Javascript", "Typescript", "HTML", "CSS", "Python", "Java"};
+ this.tools = new String[]{"SprintBoot", "React", "Jest", "Docker", "Junit", "Swagger","Git"};
+ this.passions= new String[]{"performance web", "web development", "continuous learning", "Problem resolution", "backend java"};
+ }
 ```
 
 ## you can find me 🌍:
