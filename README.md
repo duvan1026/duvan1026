@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![me](https://user-images.githubusercontent.com/57040281/231505627-355cd114-9f1f-4961-9f7c-d57dbc055772.png)
+![me](https://user-images.githubusercontent.com/57040281/231517559-42c297bc-0c0f-43fb-9f6f-c9137cc4b448.png)
 
 ```javascript
 const thai = {
