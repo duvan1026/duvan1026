@@ -17,8 +17,8 @@ public class MyStack{
  private String [] passions;
 
  public MyStack{
- this.code = new String[]{"Javascript", "Typescript", "HTML", "CSS", "Python", "Java"};
- this.tools = new String[]{"SprintBoot", "React", "Jest", "Docker", "Junit", "Swagger","Git"};
+ this.code = new String[]{ "Java","Javascript", "Typescript", "HTML", "CSS", "Python"};
+ this.tools = new String[]{"SprintBoot", "React", "Jest", "Docker", "Junit", "Swagger","Git","GitHub"};
  this.passions= new String[]{"performance web", "web development", "continuous learning", "Problem resolution", "backend java"};
  }
 ```
