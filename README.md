@@ -8,18 +8,22 @@
 @Entity
 public class MyStack{
 
- @Id
- @GeneratedValue(strategy = GenerationType.IDENTITY)
- @ApiModelProperty("Clave autoincremental tipo Long")
- private Long id;
- private String [] code;
- private String [] tools;
- private String [] passions;
+   @Id
+   @GeneratedValue(strategy = GenerationType.IDENTITY)
+   @ApiModelProperty("Clave autoincremental tipo Long")
+   private Long id;
+   private String [] code;
+   private String [] tools;
+   private String [] passions;
 
- public MyStack{
- this.code = new String[]{ "Java","Javascript", "Typescript", "HTML", "CSS", "Python"};
- this.tools = new String[]{"SprintBoot", "React", "Jest", "Docker", "Junit", "Swagger","Git","GitHub"};
- this.passions= new String[]{"performance web", "web development", "continuous learning", "Problem resolution", "backend java"};
+   public MyStack{
+   this.code = new String[]{ "Java","Javascript", "Typescript", "HTML", "CSS", "Python"};
+   this.tools = new String[]{"SprintBoot", "React", "Jest", "Docker", "Junit", "Swagger","Git","GitHub"};
+   this.passions= new String[]{"performance web", "web development", "continuous learning", "Problem resolution", "backend java"};
+   }
+   
+   
+   
  }
 ```
 
