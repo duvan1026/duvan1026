@@ -21,9 +21,6 @@ public class MyStack{
    this.tools = new String[]{"SprintBoot", "React", "Jest", "Docker", "Junit", "Swagger","Git","GitHub"};
    this.passions= new String[]{"performance web", "web development", "continuous learning", "Problem resolution", "backend java"};
    }
-   
-   
-   
  }
 ```
 
